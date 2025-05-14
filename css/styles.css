@@ -252,10 +252,3 @@ box-sizing: border-box;
     border-radius: 5px;
     display: inline-block; /* Правильне відображення */
 }
-
-.blue-page {
-    background-color: lightblue; /* Голубий фон тільки для вибраних сторінок */
-    margin: 0;
-    padding: 0;
-    font-family: "Montserrat", sans-serif;
-}

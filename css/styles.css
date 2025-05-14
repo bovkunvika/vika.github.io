@@ -236,8 +236,8 @@ box-sizing: border-box;
 
 .top-right {
     position: absolute;
-    top: 20px; /* Відступ зверху */
-    right: 50px; /* Відступ справа */
+    top: 50px; /* Відступ зверху */
+    right: 150px; /* Відступ справа */
     display: flex;
     gap: 15px; /* Відстань між кнопками */
 }

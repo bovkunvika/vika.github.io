@@ -253,10 +253,9 @@ box-sizing: border-box;
     display: inline-block; /* Правильне відображення */
 }
 
-.blue-background {
+body {
     background-color: lightblue; /* Голубий фон */
-    padding: 10px; /* Відступи навколо тексту */
-    border-radius: 5px; /* Закруглення країв */
-    display: inline-block; /* Щоб фон не розтягувався */
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;
 }
-

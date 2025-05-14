@@ -253,8 +253,8 @@ box-sizing: border-box;
     display: inline-block; /* Правильне відображення */
 }
 
-body {
-    background-color: lightblue; /* Голубий фон */
+.blue-page {
+    background-color: lightblue; /* Голубий фон тільки для вибраних сторінок */
     margin: 0;
     padding: 0;
     font-family: "Montserrat", sans-serif;

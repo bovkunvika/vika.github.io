@@ -236,10 +236,10 @@ box-sizing: border-box;
 
 .top-right {
     position: absolute;
-    top: 20px; /* Відступ зверху */
-    right: 0px; /* Відступ справа */
+    top: 10px;
+    right: 20px;
     display: flex;
-    gap: 15px; /* Відстань між кнопками */
+    gap: 15px;
 }
 
 .top-right a {
@@ -250,5 +250,10 @@ box-sizing: border-box;
     padding: 5px 10px;
     background-color: #f0f0f0;
     border-radius: 5px;
-    display: inline-block; /* Правильне відображення */
+    transition: 0.3s;
+}
+
+.top-right a:hover {
+    background-color: lightblue; /* Щоб при наведенні змінювався */
+    color: white;
 }

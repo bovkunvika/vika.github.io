@@ -242,7 +242,7 @@ box-sizing: border-box;
     gap: 15px; /* Відстань між посиланнями */
 }
 
-.top-right {
+.top-right a {
     font-size: 18px;
     font-weight: bold;
     color: black;

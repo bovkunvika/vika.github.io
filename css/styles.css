@@ -252,3 +252,11 @@ box-sizing: border-box;
     border-radius: 5px;
     display: inline-block; /* Правильне відображення */
 }
+
+.blue-background {
+    background-color: lightblue; /* Голубий фон */
+    padding: 10px; /* Відступи навколо тексту */
+    border-radius: 5px; /* Закруглення країв */
+    display: inline-block; /* Щоб фон не розтягувався */
+}
+

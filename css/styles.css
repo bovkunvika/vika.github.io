@@ -234,14 +234,14 @@ box-sizing: border-box;
     pointer-events: none;
 }
 
-.top-right {
+.top-left {
     position: absolute;
     top: 10px; /* Відступ зверху */
-    right: 20px; /* Відступ справа */
+    left: 20px; /* Відступ справа */
     font-size: 18px;
     text-align: right;
 }
-.top-right a {
+.top-left a {
     color: black;
     text-decoration: none;
     margin-left: 15px; /* Відступ між посиланнями */

@@ -1,5 +1,5 @@
 User-agent: *
-Disallow: /admin/
+Disallow: /search/
 Disallow: /cart/
 
 Allow: /history.html

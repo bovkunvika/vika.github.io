@@ -1,1 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cart/
 
+Allow: /history.html
+
+Sitemap: https://bovkunvika.github.io/vika_site/sitemap.xml
